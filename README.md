@@ -3,7 +3,7 @@
 ## Author Blake Bennett
 I created a simple web server using node.js
 
-## Creating a web service
+## Creating a web server
 - Step 1
 
 Open powershell in a folder and type the command npm init and follow the steps on screen
